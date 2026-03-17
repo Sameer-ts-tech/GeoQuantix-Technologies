@@ -146,7 +146,7 @@ export function Contact() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1 text-sm sm:text-base">Email Us</h3>
-                    <p className="text-sm sm:text-base text-muted-foreground">contact@apexinternational.org.in</p>
+                    <p className="text-sm sm:text-base text-muted-foreground">contact@geoquantix.org</p>
                     {/*<p className="text-sm sm:text-base text-muted-foreground">support@apexinternational.com</p>*/}
                   </div>
                 </CardContent>

@@ -9,8 +9,9 @@ export async function POST(req: Request) {
     const data = await req.json()
 
     await resend.emails.send({
-      from: "Apex International <onboarding@resend.dev>",
+      from: "GeoQuantix <contact@geoquantix.org>",
       to: process.env.CONTACT_RECEIVER_EMAIL!,
+      bcc: process.env.CONTACT_RECEIVER_EMAIL!,
       subject: "New Contact Form Submission",
       replyTo: data.email,
       html: contactEmailTemplate(data),

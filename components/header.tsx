@@ -48,7 +48,7 @@ export function Header() {
 
             <div className="flex items-center gap-2 sm:gap-4">
               <a
-                href="https://wa.me/919140304931"
+                href="https://wa.me/919473874915"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary-foreground/80 hover:text-d transition-colors"

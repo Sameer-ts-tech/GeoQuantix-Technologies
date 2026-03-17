@@ -175,9 +175,9 @@ export function Contact() {
                     <p className="text-sm sm:text-base text-muted-foreground">
                       GeoQuantix Technologies
                       <br />
-                      154C,UTSAV-II,Mahanagar Colony
+                      Taghrauli,Ballia
                       <br />
-                      Uttar Pradesh, India 243001
+                      Uttar Pradesh, India 277203
                     </p>
                   </div>
                 </CardContent>
